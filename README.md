@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GYoungJang/GYoungJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=근영's%20GitHub&fontSize=70)
