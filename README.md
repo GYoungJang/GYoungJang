@@ -12,14 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=근영's%20GitHub&fontSize=70)
-
-[![GYoungJang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical)](https://github.com/GYoungJang/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&hide=jupyter%20notebook)](https://github.com/GYoungJang/github-readme-stats)
-
 <div align=center>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=근영's%20GitHub&fontSize=100"/>
+  
+<br/>
+<br/>
+<br/>
+<br/>
+  
+<img width=50% height=100% align="right" src="https://github-readme-stats.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&hide=jupyter%20notebook"/>    
+
 
 ## 📚 t e c h 📚
 
