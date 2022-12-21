@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=근영's%20GitHub&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=근영's%20GitHub&fontSize=70)
 
 [![GYoungJang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical)](https://github.com/GYoungJang/github-readme-stats)
 
