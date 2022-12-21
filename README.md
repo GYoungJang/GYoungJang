@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=근영's%20GitHub&fontSize=100"/>
-  
-<br/>
-<br/>
-<br/>
-<br/>
   
 <img width=50% height=100% align="right" src="https://github-readme-stats.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical"/>
 
