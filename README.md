@@ -23,21 +23,14 @@ Here are some ideas to get you started:
 
 ## 📚 t e c h 📚
 
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0054FF?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-FF2424?style=flat-square&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeJS-22741C?style=flat-square&logo=node.js&logoColor=white"/>
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Joowon0220/TODO-List) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Joowon0220/fullPage) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/Joowon0220/svelte)
-<br>
-
-[![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/Joowon0220/My-app) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/Joowon0220/NodeJS) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/Joowon0220/React_Login)
-<br>
-
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Joowon0220/weather) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
-<br>
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)  [![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white)](https://github.com/Joowon0220/Spring_Weather) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
-<br><br><br>
 
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://321coucou.tistory.com/)  [![Code Pen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/joowon0220) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:zzbtang@gmail.com)
+[![Notion](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://321coucou.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:zzbtang@gmail.com)
 <br><br><br>
 
 
