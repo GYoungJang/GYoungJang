@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 <img width=50% height=100% align="right" src="https://github-readme-stats.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&hide=jupyter%20notebook,html"/>    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&theme=dracula&hide=jupyter%20notebook,html"/>    
 
 
 ## 📚 t e c h
