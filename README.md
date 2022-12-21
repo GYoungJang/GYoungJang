@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-0054FF?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-FF2424?style=flat-square&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJS-22741C?style=flat-square&logo=node.js&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-368AFF?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize-7ED2FF?style=flat-square&logo=Sequelize&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47C83E?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1245AB?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 
 ## 💫 m e 
