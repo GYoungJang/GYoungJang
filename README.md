@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  
-<img width=50% height=120% align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GYoungJang&theme=radical&hide=jupyter%20notebook,html"/>    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&theme=radical&hide=jupyter%20notebook,html)](https://github.com/GYoungJang/GYoungJang)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&langs_count=6&theme=radical&hide=jupyter%20notebook,html"/>    
 
 
 ## 📚 t e c h
