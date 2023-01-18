@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ## 💫 m e
-[![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black)](https://tidy-croissant-a9c.notion.site/gjang-c7683285fbfe482e922d07c3a09546fc/) 
+[![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black)](https://tidy-croissant-a9c.notion.site/gjang-22f290312c76472799ab61c1912162cd) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:zzbtang@gmail.com)
 
 
