@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
+<img width=50% height=100% align="right" src="https://github-readme-stats.vercel.app/api?username=GYoungJang&count_private=true&show_icons=true&theme=radical"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&theme=radical&hide=jupyter%20notebook,html)](https://github.com/GYoungJang/GYoungJang)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYoungJang&langs_count=6&theme=radical&hide=jupyter%20notebook,html"/>    
+
 
 
 ## 📚 t e c h
